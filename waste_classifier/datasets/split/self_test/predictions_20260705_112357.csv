@@ -1,0 +1,15 @@
+index,image_path,predicted_class,confidence
+1,datasets\split\self_test\WhatsApp Image 2026-07-05 at 11.23.28 AM (1).jpeg,plastic,0.5009031295776367
+2,datasets\split\self_test\WhatsApp Image 2026-07-05 at 11.23.28 AM.jpeg,paper,0.9316020607948303
+3,datasets\split\self_test\WhatsApp Image 2026-07-05 at 11.23.29 AM (1).jpeg,glass,0.5041835308074951
+4,datasets\split\self_test\WhatsApp Image 2026-07-05 at 11.23.29 AM (10).jpeg,glass,0.8431263566017151
+5,datasets\split\self_test\WhatsApp Image 2026-07-05 at 11.23.29 AM (11).jpeg,glass,0.46934548020362854
+6,datasets\split\self_test\WhatsApp Image 2026-07-05 at 11.23.29 AM (2).jpeg,metal,0.6683799028396606
+7,datasets\split\self_test\WhatsApp Image 2026-07-05 at 11.23.29 AM (3).jpeg,organic,0.9771753549575806
+8,datasets\split\self_test\WhatsApp Image 2026-07-05 at 11.23.29 AM (4).jpeg,metal,0.5304961204528809
+9,datasets\split\self_test\WhatsApp Image 2026-07-05 at 11.23.29 AM (5).jpeg,plastic,0.7812166810035706
+10,datasets\split\self_test\WhatsApp Image 2026-07-05 at 11.23.29 AM (6).jpeg,plastic,0.5761097073554993
+11,datasets\split\self_test\WhatsApp Image 2026-07-05 at 11.23.29 AM (7).jpeg,paper,0.698633074760437
+12,datasets\split\self_test\WhatsApp Image 2026-07-05 at 11.23.29 AM (8).jpeg,glass,0.7441025972366333
+13,datasets\split\self_test\WhatsApp Image 2026-07-05 at 11.23.29 AM (9).jpeg,glass,0.8705320358276367
+14,datasets\split\self_test\WhatsApp Image 2026-07-05 at 11.23.29 AM.jpeg,plastic,0.5082884430885315
